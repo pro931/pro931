@@ -54,8 +54,8 @@ Interactive dashboard analyzing five years of Saudi labor market data (2022–20
 
 ### 🎓 Certifications
 
-- IBM — Python, SQL & AI
-- KAUST — Python, SQL & AI
+- IBM 
+- KAUST 
 
 ---
 
